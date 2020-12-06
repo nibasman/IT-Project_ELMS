@@ -8,7 +8,7 @@ Open phpmyadmin
 
 Create Database elms.
 Import database elms.sql(file available inside the pacakege)
-Open Your browser put inside browser ìhttp://localhost/EmployementLeaveManagementSystem/î
+Open Your browser put inside browser ‚Äúhttp://localhost/EmployementLeaveManagementSystem/‚Äù
  Login details for employee
 
 Email id : vanigupta@gmail.com
@@ -19,3 +19,6 @@ For admin login click on the admin login then provide username and password
 
 Email id : admin
 Passowrd : Test@12345
+
+![screenshot](https://github.com/vanigupta20024/IT-Project_ELMS/blob/master/img1.PNG)
+![screenshot](https://github.com/vanigupta20024/IT-Project_ELMS/blob/master/img2.PNG)
