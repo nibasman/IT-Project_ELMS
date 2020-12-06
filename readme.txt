@@ -20,5 +20,4 @@ For admin login click on the admin login then provide username and password
 Email id : admin
 Passowrd : Test@12345
 
-![screenshot](/img1.PNG)
-![screenshot](/img2.PNG)
+![screenshot](https://github.com/vanigupta20024/IT-Project_ELMS/blob/master/img1.PNG)
