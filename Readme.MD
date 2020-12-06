@@ -24,4 +24,4 @@ Passowrd : Test@12345
 ```
 
 ![screenshot1](https://github.com/vanigupta20024/IT-Project_ELMS/blob/master/img1.PNG)
-![screenshot1](https://github.com/vanigupta20024/IT-Project_ELMS/blob/master/img1.PNG)
+![screenshot1](https://github.com/vanigupta20024/IT-Project_ELMS/blob/master/img2.PNG)
